@@ -18,8 +18,8 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
   },
-  "scripts":{
-    "start":"hexo g -w && hexo server",
-    "push":"hexo g -d"
+  "scripts": {
+    "start": "hexo g -w && hexo server -p 5000",
+    "push": "hexo g -d"
   }
 }
