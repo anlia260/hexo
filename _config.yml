@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个追求Geek的小前端
 subtitle: 一个追求Geek的小前端
 description: 一个追求Geek的小前端
 author: Fed Akex
@@ -12,7 +12,6 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: www.fudoor.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -31,7 +30,6 @@ skip_render:
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -71,7 +69,7 @@ deploy:
   #我们是使用 git 来部署的。
   type: git
   # git 仓库的地址。
-  repo: git@git.coding.net:anlia/anPage.git
+  repo: git@github.com:anlia260/anlia260.github.io.git
   # 分支名称。
   branch: master
 

@@ -51,7 +51,7 @@ tags:
 
 前端代码开发发布我们一直遵循着这个步骤：
 
-![Alt text](https://www.fudoor.net/img/a1.png)
+![Alt text](https://raw.githubusercontent.com/anlia260/anlia260.github.io/master/img/a1.png)
 
 我们走的是邮件流程，所有的人为操作都会由邮件记录，这是一个公司基本流程。
 
@@ -79,7 +79,7 @@ _上面的流程是否容易受到人力因素的巨大影响?_
 
 开发的时候我们有可能处于这个流程
 
-![Alt text](https://www.fudoor.net/img/a2.png)
+![Alt text](https://raw.githubusercontent.com/anlia260/anlia260.github.io/master/img/a2.png)
 
 **这个时候我需要上B任务：**
 
@@ -103,7 +103,7 @@ __我们需要解决的事情__
 
 *   自动构建部署
 
-![Alt text](https://www.fudoor.net/img/a3.png)
+![Alt text](https://raw.githubusercontent.com/anlia260/anlia260.github.io/master/img/a3.png)
 
 
 ***
